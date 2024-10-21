@@ -107,7 +107,7 @@ const Footer = () => {
                   disablePadding
                 >
                   <ListItemText
-                    primary={"8103398414 | 8839429536"}
+                    primary={"8770725697 | 9098727387"}
                     primaryTypographyProps={{
                       fontWeight: "bold",
                       fontSize: { xs: "16px", sm: "18px" },
@@ -174,7 +174,7 @@ const Footer = () => {
                 Website Made With ❤️ |{" "}
                 <Button
                   target="_blank"
-                  href="https://abhaysuryawanshi.me/"
+                  href="https://www.linkedin.com/in/manku13/"
                   sx={{
                     color: "white",
                     ":hover": {
@@ -182,7 +182,7 @@ const Footer = () => {
                     },
                   }}
                 >
-                  Abhay Singh Suryawanshi
+                  Mayank Soni
                 </Button>
               </Typography>
             </Grid>
